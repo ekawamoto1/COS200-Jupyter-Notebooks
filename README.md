@@ -1,2 +1,2 @@
-# COS200-Jupyter-Notebooks
-Jupyter Notebooks for Programming I
+# COS302-Jupyter-Notebooks
+Jupyter Notebooks for Comp Sci II (formerly COS200 - Programming I)
